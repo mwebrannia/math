@@ -1,4 +1,4 @@
-# Transpose of a Matrix | Johannes James | OCT 25, 2023
+# Matrix Transposition
 
 one can use python to solve math problems in an artistic way.
 
